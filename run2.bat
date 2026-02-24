@@ -1,0 +1,1 @@
+conda activate lmstudio && python GenThumbImage.py

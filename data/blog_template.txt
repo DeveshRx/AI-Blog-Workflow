@@ -1,0 +1,9 @@
+---
+slug: {slug}
+title: "{blog_title}"
+date: "{blog_formatted_time}"
+keywords: [{blog_keywords}]
+image: "{THUMBNAIL_IMAGE_URL}"
+description: "{blog_description}"
+---
+{blog_content}
