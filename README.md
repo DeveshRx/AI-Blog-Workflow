@@ -46,7 +46,7 @@ Empower Bloggers, SEO Hackers and Small/Medium business to create content in bul
 
  All the articles will be saved under ``/output`` folder.
 
-- Copy-Paste all the blog files from ``/output`` folder to the ``content`` folder of your Website.
+- Copy-Paste all the blog files from ``/output`` folder to the ``content`` folder of your [Website](https://github.com/DeveshRx/Into-Deep-Ocean-AI-Blog).
 - Voila !! blog articles are generated and ready to publish.
 
 
