@@ -8,6 +8,10 @@
 
 A simple **Multi-Model AI Pipeline** to write and publish blog article in bulk volume.
 
+- Blog Frontend Template👉 [https://github.com/DeveshRx/Into-Deep-Ocean-AI-Blog](https://github.com/DeveshRx/Into-Deep-Ocean-AI-Blog)
+
+- AI Workflow and Pipeline👉 [https://github.com/DeveshRx/AI-Blog-Workflow](https://github.com/DeveshRx/AI-Blog-Workflow)
+
 # Goal
 Empower Bloggers, SEO Hackers and Small/Medium business to create content in bulk volume.
 
