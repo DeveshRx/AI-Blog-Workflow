@@ -1,9 +1,12 @@
-# Blog Pipeline Powered by AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-
+# Blog Content Powered by AI
 ![Static Badge]( https://img.shields.io/badge/Build_by-Devesh_Chaudhari-skyblue)
 ![Static Badge]( https://img.shields.io/badge/Version-1.0.0-orange) 
+
+![AI Blog](docs/ai_blog_thumbnail.png)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 
 A simple **Multi-Model AI Pipeline** to write and publish blog article in bulk volume.
