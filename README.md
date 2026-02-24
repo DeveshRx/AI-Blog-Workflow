@@ -1,4 +1,5 @@
-# Blog Content Workflow Powered by AI
+# Generate Blog Content at Industrial Scale 📈
+## _Blog Article Writting & publishing using AI_
 ![Static Badge]( https://img.shields.io/badge/Build_by-Devesh_Chaudhari-skyblue)
 ![Static Badge]( https://img.shields.io/badge/Version-1.0.0-orange) 
 
